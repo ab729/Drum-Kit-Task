@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(41, 40, 40);
+    margin: 0;
+}
+h1{
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    display: inline;
+}
+h3{
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    top: 1.2rem;
+    font-size: 8px;
+    font-family: 'Zen Dots', cursive;
+    color: aliceblue;
+}
+.p2{
+margin-left: 4rem;
+}
+.dicees img{
+    width: 3em;
+    height: 3em;
+    position: relative;
+    top: 2rem;
+    left: 9rem;
+}
+.P2Image{
+    margin-left: 60px;
+}
+.btn{
+    position: absolute;
+    top: 75%;
+    left: 43%;
+    width: 60px;
+    height: 15px;
+    text-align: center;
+    font-size: 8px;
+    background: black;
+    color: aliceblue;
+    border-radius: 4px;
+    cursor: pointer;
+    box-sizing: 0 0 10px rgba(0, 0,0,0.1);
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    background-color: rgb(119, 17, 22);
+    height: 1rem;
+    
+}
+footer p{
+    font-size: 8px;
+}
